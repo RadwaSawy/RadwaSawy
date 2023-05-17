@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Radwa Elsawy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<!--
-**RadwaSawy/RadwaSawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Communication and Information Engineering student at Zewail City University of Science and Technology, with a strong passion for the fields of Machine and Deep Learning, Data Science, Artificial Intelligence, Computer Vision, and Software Development.
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the languages and tools that I am proficient in:
+
+<div style="text-align:center">
+  
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![MATLAB](https://skillicons.dev/icons?i=matlab) ![Git](https://skillicons.dev/icons?i=git) ![Javascript](https://skillicons.dev/icons?i=js) ![AI](https://skillicons.dev/icons?i=ai) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![VScode](https://skillicons.dev/icons?i=vscode) ![CSS](https://skillicons.dev/icons?i=css)
+
+</div>
+
